@@ -1,3 +1,4 @@
+print('Ali  Atefe Reza  Homa   Amir   Fatemeh') 
 saf = ['ali' , 'atefeh' , 'reza' , 'homa' , 'amir' , 'fatemeh']
 
 for i in range(3):
